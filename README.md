@@ -29,3 +29,4 @@ This repository contains elementary computer graphics related projects using Ope
   * How to spawn secondary rays,
   * How to trace rays recursively, and
   * How the Whitted Ray Tracing algorithm works.
+

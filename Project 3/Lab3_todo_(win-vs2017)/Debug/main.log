@@ -1,0 +1,34 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  image_io.cpp
+  main.cpp
+C:\Users\DANH\Desktop\CS3241\Lab3\Lab3_todo_(win-vs2017)\main.cpp(65,54): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\DANH\Desktop\CS3241\Lab3\Lab3_todo_(win-vs2017)\main.cpp(71,54): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\DANH\Desktop\CS3241\Lab3\Lab3_todo_(win-vs2017)\main.cpp(395,52): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\DANH\Desktop\CS3241\Lab3\Lab3_todo_(win-vs2017)\main.cpp(823,50): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\DANH\Desktop\CS3241\Lab3\Lab3_todo_(win-vs2017)\main.cpp(824,50): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\DANH\Desktop\CS3241\Lab3\Lab3_todo_(win-vs2017)\main.cpp(825,51): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\DANH\Desktop\CS3241\Lab3\Lab3_todo_(win-vs2017)\main.cpp(872,51): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\DANH\Desktop\CS3241\Lab3\Lab3_todo_(win-vs2017)\main.cpp(898,49): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\DANH\Desktop\CS3241\Lab3\Lab3_todo_(win-vs2017)\main.cpp(899,49): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\DANH\Desktop\CS3241\Lab3\Lab3_todo_(win-vs2017)\main.cpp(935,49): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\DANH\Desktop\CS3241\Lab3\Lab3_todo_(win-vs2017)\main.cpp(936,49): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\DANH\Desktop\CS3241\Lab3\Lab3_todo_(win-vs2017)\main.cpp(963,50): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\DANH\Desktop\CS3241\Lab3\Lab3_todo_(win-vs2017)\main.cpp(964,50): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\DANH\Desktop\CS3241\Lab3\Lab3_todo_(win-vs2017)\main.cpp(965,51): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\DANH\Desktop\CS3241\Lab3\Lab3_todo_(win-vs2017)\main.cpp(994,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\DANH\Desktop\CS3241\Lab3\Lab3_todo_(win-vs2017)\main.cpp(1003,50): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\DANH\Desktop\CS3241\Lab3\Lab3_todo_(win-vs2017)\main.cpp(1004,50): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\DANH\Desktop\CS3241\Lab3\Lab3_todo_(win-vs2017)\main.cpp(1005,51): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\DANH\Desktop\CS3241\Lab3\Lab3_todo_(win-vs2017)\main.cpp(1019,82): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\DANH\Desktop\CS3241\Lab3\Lab3_todo_(win-vs2017)\main.cpp(1025,82): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\DANH\Desktop\CS3241\Lab3\Lab3_todo_(win-vs2017)\main.cpp(1031,82): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\DANH\Desktop\CS3241\Lab3\Lab3_todo_(win-vs2017)\main.cpp(1037,82): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\DANH\Desktop\CS3241\Lab3\Lab3_todo_(win-vs2017)\main.cpp(1045,100): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\DANH\Desktop\CS3241\Lab3\Lab3_todo_(win-vs2017)\main.cpp(1049,50): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\DANH\Desktop\CS3241\Lab3\Lab3_todo_(win-vs2017)\main.cpp(1050,50): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\DANH\Desktop\CS3241\Lab3\Lab3_todo_(win-vs2017)\main.cpp(1051,51): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\DANH\Desktop\CS3241\Lab3\Lab3_todo_(win-vs2017)\main.cpp(1167,50): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\DANH\Desktop\CS3241\Lab3\Lab3_todo_(win-vs2017)\main.cpp(1168,50): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  Generating Code...
+main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  main.vcxproj -> C:\Users\DANH\Desktop\CS3241\Lab3\Lab3_todo_(win-vs2017)\Debug\main.exe

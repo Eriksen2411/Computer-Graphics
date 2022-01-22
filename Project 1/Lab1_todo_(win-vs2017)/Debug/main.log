@@ -1,0 +1,4 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  main.cpp
+main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  main.vcxproj -> C:\Users\DANH\Desktop\CS3241\Lab1\Lab1_todo_(win-vs2017)\Debug\main.exe

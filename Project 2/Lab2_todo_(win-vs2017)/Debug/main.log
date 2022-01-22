@@ -1,0 +1,23 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  main.cpp
+C:\Users\DANH\Desktop\CS3241\Lab2\Lab2_todo_(win-vs2017)\main.cpp(55,47): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\DANH\Desktop\CS3241\Lab2\Lab2_todo_(win-vs2017)\main.cpp(58,45): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\DANH\Desktop\CS3241\Lab2\Lab2_todo_(win-vs2017)\main.cpp(66,54): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\DANH\Desktop\CS3241\Lab2\Lab2_todo_(win-vs2017)\main.cpp(67,54): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\DANH\Desktop\CS3241\Lab2\Lab2_todo_(win-vs2017)\main.cpp(68,55): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\DANH\Desktop\CS3241\Lab2\Lab2_todo_(win-vs2017)\main.cpp(72,54): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\DANH\Desktop\CS3241\Lab2\Lab2_todo_(win-vs2017)\main.cpp(73,54): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\DANH\Desktop\CS3241\Lab2\Lab2_todo_(win-vs2017)\main.cpp(74,55): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+C:\Users\DANH\Desktop\CS3241\Lab2\Lab2_todo_(win-vs2017)\main.cpp(135,82): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\DANH\Desktop\CS3241\Lab2\Lab2_todo_(win-vs2017)\main.cpp(142,94): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\DANH\Desktop\CS3241\Lab2\Lab2_todo_(win-vs2017)\main.cpp(149,94): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\DANH\Desktop\CS3241\Lab2\Lab2_todo_(win-vs2017)\main.cpp(162,71): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\DANH\Desktop\CS3241\Lab2\Lab2_todo_(win-vs2017)\main.cpp(169,68): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\DANH\Desktop\CS3241\Lab2\Lab2_todo_(win-vs2017)\main.cpp(176,72): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\DANH\Desktop\CS3241\Lab2\Lab2_todo_(win-vs2017)\main.cpp(183,69): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\DANH\Desktop\CS3241\Lab2\Lab2_todo_(win-vs2017)\main.cpp(209,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\DANH\Desktop\CS3241\Lab2\Lab2_todo_(win-vs2017)\main.cpp(210,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\DANH\Desktop\CS3241\Lab2\Lab2_todo_(win-vs2017)\main.cpp(211,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\DANH\Desktop\CS3241\Lab2\Lab2_todo_(win-vs2017)\main.cpp(213,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\DANH\Desktop\CS3241\Lab2\Lab2_todo_(win-vs2017)\main.cpp(527,52): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  main.vcxproj -> C:\Users\DANH\Desktop\CS3241\Lab2\Lab2_todo_(win-vs2017)\Debug\main.exe

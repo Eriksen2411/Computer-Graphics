@@ -1,0 +1,2 @@
+C:\Users\DANH\Desktop\CS3241\Lab1\Lab1_todo_(win-vs2017)\Debug\main.exe
+C:\Users\DANH\Desktop\CS3241\Lab1\Lab1_todo_(win-vs2017)\Debug\main.pdb
