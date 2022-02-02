@@ -1,4 +1,4 @@
-# Computer-Graphics
+# Computer Graphics
 
 This repository contains elementary computer graphics related projects using OpenGL and C++.
 
